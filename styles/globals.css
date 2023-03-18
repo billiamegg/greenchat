@@ -26,6 +26,17 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 
+.box{
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+#box {
+  display: flex;
+  gap: 8px;
+}
+
 .container {
   height: 100vh;
   display: flex;
