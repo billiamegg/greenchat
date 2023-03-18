@@ -5,7 +5,14 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
     </div>
   )
 }
